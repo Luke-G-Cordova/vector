@@ -1,0 +1,26 @@
+{
+  "name": "vector",
+  "version": "1.0.0",
+  "description": "Vector functionality for javascript. Mainly 2d.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luke-G-Cordova/vector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luke-G-Cordova/vector/issues"
+  },
+  "homepage": "https://github.com/Luke-G-Cordova/vector#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
